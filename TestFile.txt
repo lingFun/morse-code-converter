@@ -1,0 +1,6 @@
+Mobile computers
+?~The first mobile computers were heavy   and ran from mains power. The 50lb IBM© 5100 was an early    example. Later portables such as the Osborne© 1 and Compaq© Portable were considerably lighter but still needed to be plugged in. The first laptops,
+such as the Grid Compass, removed this requirement by incorporating batteries – and with the continued miniaturization of computing resources and advancements in portable battery life, portable computers grew in popularity in the 2000s. 
+The same developments allowed   manufacturers to integrate computing  resources into cellular  mobile phones by the early 2000s.
+
+These smartphones and tablets run on a variety of operating systems and recently became the dominant  computing device on the market. These are powered by System on a Chip (SoCs), which are complete computers on a microchip the size of a coin.
